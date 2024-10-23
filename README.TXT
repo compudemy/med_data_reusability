@@ -1,6 +1,6 @@
 CVD Prediction Project
-Author: Julian Borges, M.D.
-Date: August 21, 2024
+Author: Compudemy
+Date: October 23, 2024
 
 Project Overview
 This project explores the relationship between early-stage diabetes symptoms and cardiovascular disease (CVD) risk using machine learning techniques. The goal is to develop predictive models that can aid in the early detection of heart failure risk among diabetic patients.
@@ -33,4 +33,4 @@ Manuscript:
 
 The manuscript file CVD_Prediction_Manuscript.pdf provides a comprehensive overview of the study, including background, methodology, results, and conclusions.
 Contact
-For any questions regarding this project, please contact Julian Borges at fxmedbrasil@gmail.com
+For any questions regarding this project, please contact Compudemy
